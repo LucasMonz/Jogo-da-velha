@@ -1,5 +1,5 @@
 package jogodavelha;
-
+//alterado
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import javax.swing.*;
@@ -13,7 +13,7 @@ public class Main extends JFrame {
 	JLabel jogo = new JLabel("JOGO");
 	JLabel jogo2 = new JLabel("DA");
 	JLabel jogo3 = new JLabel("VELHA");
-	JLabel eu = new JLabel("- mønzini -");
+	JLabel eu = new JLabel("- mÃ¸nzini -");
 	JLabel px = new JLabel ("X = 0");
 	JLabel po = new JLabel ("O = 0");
 	JButton novo = new JButton ("Novo jogo.");
